@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LaboratorioActivitis</string>
+    <string name="calcular">calcular</string>
+    <string name="talla">ingrese talla</string>
+    <string name="peso">ingrese peso</string>
+    <string name="normal">normal</string>
+    <string name="obeso">obeso</string>
+    <string name="sobrepeso">sobrepeso</string>
+    <string name="resul1">Mantener un peso saludable puede reducir el riesgo de enfermedades crónicas asociadas al sobrepeso y la obesidad</string>
+    <string name="resul2">Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto</string>
+</resources>
